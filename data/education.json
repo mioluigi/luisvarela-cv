@@ -1,0 +1,32 @@
+[
+  {
+    "school": "Carnegie Mellon University",
+    "degree": "Graduate Certificate — Managing AI Systems",
+    "range": "2026 — In Progress",
+    "notes": "Graduate certificate program focused on managing, governing, and operationalizing AI systems."
+  },
+  {
+    "school": "Carnegie Mellon University — Heinz College of Information Systems and Public Policy",
+    "degree": "Executive Certificate — Chief Data and AI Officer (CDAIO)",
+    "range": "2025",
+    "notes": "Leading digital transformation with AI, data, and emerging innovative practices."
+  },
+  {
+    "school": "MIT Professional Education",
+    "degree": "Artificial Intelligence and Machine Learning: Leading Business Growth",
+    "range": "2024",
+    "notes": "Executive program in AI and machine learning applications for business growth."
+  },
+  {
+    "school": "Carnegie Mellon University — Heinz College of Information Systems and Public Policy",
+    "degree": "Master of Science in Information Technology — Information Security and Assurance",
+    "range": "2020 – 2022",
+    "notes": "Graduate degree focused on information security and assurance."
+  },
+  {
+    "school": "Carnegie Mellon University — Heinz College of Information Systems and Public Policy",
+    "degree": "Executive Certificate — Chief Information Security Officer (CISO)",
+    "range": "2016 – 2017",
+    "notes": "Cyber risk management, operational cyber resilience, strategy development, insider threat, and law."
+  }
+]

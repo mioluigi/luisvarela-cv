@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section class="resume-section p-3 p-lg-5 d-flex d-column">
+  <div class="my-auto">
+    <h1 class="mb-4">{{ .Title }}</h1>
+    {{ with .Content }}<div class="mb-5">{{ . }}</div>{{ end }}
+    {{ range .Pages.ByDate.Reverse }}
+    <article class="resume-item mb-5">
+      <h2 class="mb-1"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <div class="subheading mb-3">{{ .Date.Format "January 2, 2006" }}</div>
+      <div>{{ .Summary }}</div>
+      <p class="mt-2"><a href="{{ .RelPermalink }}">Read article →</a></p>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
