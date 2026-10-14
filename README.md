@@ -1,50 +1,49 @@
-# Luis Emanuel Varela — Personal Website
+# Luis Emanuel Varela — Hugo Personal Website
 
-A professional portfolio and résumé website created with Hugo.
+A professional résumé and technical portfolio website built with Hugo.
 
-## Assignment purpose
+## Assignment objective
 
-This website demonstrates the use of Hugo, Markdown, Go templates, Git, GitHub, and static-site deployment to present a technical professional profile.
+This website presents my professional background in AI strategy, responsible AI, cybersecurity, data governance, computer vision, and digital trust. It is designed to serve as a web-based complement and replacement for a traditional résumé and LinkedIn profile.
 
-## Technology
+## Content plan
 
-- Hugo static site generator
-- Go template-based layouts and theme components
-- Markdown content pages
-- JSON data files for résumé content
+| Section | Purpose |
+|---|---|
+| Home | Executive profile, career experience, education, skills, photo, and contact details |
+| About | Professional background, leadership focus, and target roles |
+| Projects | Technical and strategic portfolio: AI trust platform, responsible AI, AI security, and secure MLOps |
+| Writing | Short technical perspective on operationalizing governed AI |
+| Contact | Professional contact information and LinkedIn profile |
+
+## Technology stack
+
+- Hugo static-site generator
+- Hugo Resume theme
+- Markdown content files in `content/`
+- Hugo Go-template layouts and partials
+- JSON data files for résumé experience, education, and skills
 - Git and GitHub for version control
 - Netlify for continuous deployment
 
-## Local development
+## Run locally
 
 ```bash
-hugo server -D --disableFastRender
+hugo server --disableFastRender
 ```
 
 Open `http://localhost:1313/`.
 
-## Production build
+## Build the production site
 
 ```bash
 hugo --minify
 ```
 
-Hugo writes the static site to the `public/` directory.
+Hugo writes the static website to `public/`.
 
-## Site sections
+## Key technical portfolio areas
 
-- Home / résumé
-- About
-- Projects
-- Writing
-- Contact
-
-## Technical portfolio highlights
-
-- AI-powered authentication and digital provenance
-- Responsible AI, AI security, governance, and secure MLOps
-- Enterprise AI strategy and digital transformation
-
-## Deployment
-
-Pushes to the `main` branch are configured to trigger automated deployment through Netlify.
+- AI-powered authentication, computer vision, digital provenance, and Digital Product Passports
+- Responsible AI, AI security, model governance, secure MLOps, and LLMOps
+- Enterprise AI strategy, data governance, cloud transformation, and cyber resilience

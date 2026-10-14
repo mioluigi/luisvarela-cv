@@ -69,8 +69,9 @@ trackerID = "XX-123446-01"
 
 
 [params.customSections.ham]
-    name = "SOME LINK"
-    url  = "https://example.com"
+    name = "GIDS"
+    url = "https://gids.co/index.html"
+    weight = 6
 
 
 

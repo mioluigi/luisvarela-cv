@@ -1,5 +1,17 @@
 [
   {
+    "school": "Northwestern University",
+    "degree": "Master of Science in Data Science — Artificial Intelligence & Entrepreneurship",
+    "range": "Fall 2026 – Expected Fall 2029",
+    "notes": ""
+  },
+  {
+    "school": "Carnegie Mellon University — Heinz College of Information Systems and Public Policy",
+    "degree": "Master of Science in Information Technology — Information Security and Assurance",
+    "range": "2020 – 2022",
+    "notes": "Graduate degree focused on information security and assurance."
+  },
+  {
     "school": "Carnegie Mellon University",
     "degree": "Graduate Certificate — Managing AI Systems",
     "range": "2026 — In Progress",
@@ -16,12 +28,6 @@
     "degree": "Artificial Intelligence and Machine Learning: Leading Business Growth",
     "range": "2024",
     "notes": "Executive program in AI and machine learning applications for business growth."
-  },
-  {
-    "school": "Carnegie Mellon University — Heinz College of Information Systems and Public Policy",
-    "degree": "Master of Science in Information Technology — Information Security and Assurance",
-    "range": "2020 – 2022",
-    "notes": "Graduate degree focused on information security and assurance."
   },
   {
     "school": "Carnegie Mellon University — Heinz College of Information Systems and Public Policy",
