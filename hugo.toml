@@ -1,6 +1,6 @@
 
 title = "Luis Emanuel Varela"
-baseURL = "http://localhost:1313/"
+baseURL = "https://luisvarela-cv.netlify.app/"
 theme = "hugo-resume"
 locale = "en-us"
 PygmentsCodeFences = true
