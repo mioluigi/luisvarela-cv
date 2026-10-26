@@ -1,99 +1,134 @@
 [
   {
     "role": "Chief Transformation Officer",
-    "company": "OWNE",
-    "summary": "Lead technology transformation strategy and delivery for OWNE’s AI-powered authentication and provenance platform. Direct cloud foundations, identity and security design, data governance, engineering standards, and the production computer-vision authentication stack. Lead evaluation discipline through precision-weighted scoring, confidence thresholds, and human review for undetermined cases. Build the trust architecture that combines computer vision, generative AI, agentic AI, and responsible AI governance to enable authentication, Digital Product Passports, trusted data exchange, and enterprise-grade interoperability.",
+    "company": "OWNE Intelligence",
+    "location": "New York · Monaco · Dubai",
+    "summary": "AI-powered luxury authentication and provenance platform. Advisor to the founder-CEO from March 2026. Report to the CEO; accountable for technology, information security, AI operations and Responsible AI, and technical lead with customers and government partners. Own the Trust Architecture, the end-to-end system that turns curated data into auditable authentication decisions.",
+    "highlights": [
+      "**AI strategy:** Co-own AI strategy with the Chief AI Officer; set the target architecture, acceptance criteria, 90-day plan and roadmap for the platform reset.",
+      "**Operationalization at speed:** Architect the platform on GCP and Vertex AI; lead migration to company-owned environments with infrastructure as code, MLOps and CI/CD; ratify every production deployment of a model or agent.",
+      "**AI lifecycle:** Run the lifecycle from data agents through deduplication, test-set gate, training, serving and monitoring, with model lineage, dataset versioning and production monitoring of drift, latency and cost per decision.",
+      "**Responsible AI:** Chair the Responsible AI and risk review; own the AI risk register, explainable verdicts and segment-level fairness testing; lead readiness for GDPR, CPRA, UAE PDPL, the EU AI Act and Digital Product Passports.",
+      "**AI security:** Own cybersecurity strategy — least-privilege access, MFA, secrets, encryption and network controls; a scoped identity for every data-collection agent; poisoning defense; tamper-evident decision logs; red-team testing, incident response and disaster recovery.",
+      "**Evaluation discipline:** Direct computer-vision evaluation using precision-weighted scoring, confidence thresholds and human review of undetermined cases to guide release decisions.",
+      "**Customer & government engagement:** Technical lead for design-partner pilots, investor technical diligence and the Dubai Customs pilot discovery, including scope, security boundaries, data sovereignty and success measures.",
+      "**Operating rhythm:** Run the daily operating review, weekly risk review and stage-gate reviews before any new scope, category or region."
+    ],
     "range": "July 2026 – Present",
     "url": ""
   },
   {
-    "role": "President",
-    "company": "The Global Institute of Data Science",
-    "summary": "Operationalize predictive, generative, and agentic AI systems. Partner with leaders as a combined CTO, CISO, and CDAIO advisor to remove delivery friction, scale AI programs, and meet rigorous engineering requirements. Focus on AI lifecycle management, data and AI governance, MVP development, incubation, feasibility assessment, and transformation strategy.",
-    "range": "March 2025 – Present",
+    "role": "President; AI, Data & AI Security Practice Leader",
+    "company": "Global Institute of Data Science (GIDS)",
+    "location": "New York",
+    "summary": "",
+    "highlights": [
+      "Serve as fractional CTO, CISO, and CDAIO for enterprise, startup, and SMB clients, operationalizing predictive, generative, and agentic AI.",
+      "Built enterprise data-management and AI-maturity assessments with ROI-driven roadmaps covering data quality, governance, ethics, and security risk.",
+      "Guide AI initiatives from discovery and algorithm selection through delivery and stewardship; designed Responsible AI frameworks with human-in-the-loop checkpoints.",
+      "Lead ML engineering, data science and security teams on secure data pipelines and model lifecycle management; implemented Security-as-Code pipeline controls.",
+      "Advise boards on AI risk, compliance, and secure-by-design architecture.",
+      "Led the OWNE engagement: designed the Google Cloud and Workspace foundation (access design, infrastructure as code, cost controls), led the security workstream and wrote the Dubai Customs pilot discovery brief (September 2026)."
+    ],
+    "range": "2024 – Present",
+    "url": "https://gids.co/index.html"
+  },
+  {
+    "role": "AI Education Leadership — CTE Teacher",
+    "company": "Yonkers and NYC Departments of Education",
+    "location": "New York",
+    "summary": "",
+    "highlights": [
+      "Taught AI, Python, data science and cybersecurity; launched a NYC school’s first AI elective pathway with AI ethics built in."
+    ],
+    "range": "February 2024 – July 2026",
     "url": ""
   },
   {
-    "role": "Senior Account Manager",
+    "role": "Senior Account Manager / Business Development Cyber Specialist",
     "company": "BeDisruptive",
-    "summary": "Managed client relationships and cybersecurity-focused engagements in New York.",
+    "summary": "",
+    "highlights": [
+      "Built an adversarial AI practice and coached SOC modernization; led multidisciplinary AI/ML proofs of concept and mentored ML and data science talent."
+    ],
     "range": "September 2023 – September 2024",
     "url": ""
   },
   {
     "role": "Cybersecurity Sales Specialist",
-    "company": "Cisco",
-    "summary": "Supported cybersecurity solution strategy and enterprise customer engagement.",
+    "company": "Cisco Systems",
+    "summary": "",
+    "highlights": [
+      "Positioned Cisco Secure within Fortune 50 global network architectures; contributed to $85M+ in team sales over 23 months and $7.5M+ in security pipeline."
+    ],
     "range": "January 2021 – January 2023",
     "url": ""
   },
   {
-    "role": "Security Consulting Senior Manager — Cloud & Infrastructure Security",
+    "role": "Security Consulting Senior Manager, Cloud & Infrastructure Security",
     "company": "Accenture",
-    "summary": "Led cloud and infrastructure security consulting work for enterprise clients.",
+    "summary": "",
+    "highlights": [
+      "Led North America Cloud & Infrastructure Security within a global practice of 100+ consultants generating $80M+ in revenue; owned delivery quality, innovation and vendor relationships.",
+      "Created Accenture’s first SASE service with Palo Alto Networks and achieved 234% of revenue target.",
+      "Built capabilities in security analytics, firewall, IAM, vulnerability management and infrastructure security; guided Fortune 500 clients through cloud security transformations."
+    ],
     "range": "May 2019 – September 2020",
     "url": ""
   },
   {
     "role": "Vice President, Cybersecurity",
-    "company": "JPMorgan Chase & Co.",
-    "summary": "Cybersecurity leadership role supporting a global financial-services organization.",
+    "company": "JPMorgan Chase",
+    "summary": "",
+    "highlights": [
+      "Managed ForeScout network access controls for 1.1M+ hosts; led automation of 3M+ firewall rules using Agile, microservices and IaaS integration.",
+      "Enabled segregated adversary and penetration-testing environments, packet capture and static analysis for global threat detection."
+    ],
     "range": "September 2017 – April 2019",
     "url": ""
   },
   {
-    "role": "Business Development Manager — LATAM, Mexico Service Providers",
-    "company": "Cisco",
-    "summary": "Led business development for service-provider customers across the United States and Mexico.",
-    "range": "August 2016 – April 2017",
+    "role": "Business Development, Customer Engagement & Operations Leadership",
+    "company": "Cisco Systems",
+    "summary": "",
+    "highlights": [
+      "Led service delivery, proofs of concept and multi-year roadmaps; delivered $70M+ to the combined services P&L and grew the services portfolio to $9M+ (30% YoY)."
+    ],
+    "range": "July 2008 – April 2017",
     "url": ""
   },
   {
-    "role": "Customer Engagement Manager — U.S. Cable Providers",
-    "company": "Cisco",
-    "summary": "Managed customer engagement for U.S. cable-provider accounts.",
-    "range": "August 2015 – July 2016",
-    "url": ""
-  },
-  {
-    "role": "Operations, Program & Delivery Manager — U.S. Service Providers",
-    "company": "Cisco",
-    "summary": "Led operations, program management, and delivery for U.S. service-provider initiatives.",
-    "range": "July 2008 – July 2015",
-    "url": ""
-  },
-  {
-    "role": "Manager, Network Services Line — U.S. Service Providers",
+    "role": "Manager, Network Services",
     "company": "Accenture",
-    "summary": "Managed network-services consulting initiatives for U.S. service-provider clients.",
-    "range": "February 2004 – June 2008",
+    "summary": "",
+    "range": "2004 – 2008",
     "url": ""
   },
   {
-    "role": "IT Consultant",
+    "role": "IT Consultant / Founding Member",
     "company": "Sunergia",
-    "summary": "Founder member of a consulting startup.",
+    "summary": "",
     "range": "2002 – 2004",
     "url": ""
   },
   {
-    "role": "Member of Consultant Staff — U.S. Enterprises & Service Providers",
+    "role": "Member of Consultant Staff",
     "company": "Lucent Technologies",
-    "summary": "Consulted for enterprise and service-provider clients.",
+    "summary": "",
     "range": "1999 – 2002",
     "url": ""
   },
   {
     "role": "Network Systems Engineer",
-    "company": "Telcordia (formerly Bellcore)",
-    "summary": "Network systems engineering role in Morristown, New Jersey.",
+    "company": "Telcordia",
+    "summary": "",
     "range": "1998 – 1999",
     "url": ""
   },
   {
     "role": "Electrical / Audio Engineer",
     "company": "Sony BMG",
-    "summary": "Electrical and audio engineering responsibilities across Oregon and New Jersey.",
+    "summary": "",
     "range": "1996 – 1998",
     "url": ""
   }
